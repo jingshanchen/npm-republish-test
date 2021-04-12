@@ -1,6 +1,6 @@
 {
-  "name": "npm-publish-test",
-  "version": "1.0.1",
+  "name": "npm-publish-test-js",
+  "version": "1.0.0",
   "description": "测试npm发布机制",
   "main": "index.js",
   "scripts": {
